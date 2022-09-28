@@ -1,0 +1,8 @@
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\bin\Debug\SamRab11.exe.config
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\bin\Debug\SamRab11.exe
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\bin\Debug\SamRab11.pdb
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\obj\Debug\SamRab11.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\obj\Debug\SamRab11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\obj\Debug\SamRab11.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\obj\Debug\SamRab11.exe
+C:\Users\Student.POLCOL\source\repos\SamRab11\SamRab11\obj\Debug\SamRab11.pdb
